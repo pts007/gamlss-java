@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/vlasiosvoudouris/Documents/research/programming/javacommonjars/R/REngine.jar"/>
+	<classpathentry kind="lib" path="/Users/vlasiosvoudouris/Documents/research/programming/javacommonjars/R/RserveEngine.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
